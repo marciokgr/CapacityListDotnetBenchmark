@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapacityListDotnetBenchmark", "capacity_list_dotnet\CapacityListDotnetBenchmark.csproj", "{F96C7241-7A9F-4F0C-A719-9AA41EB4E231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96C7241-7A9F-4F0C-A719-9AA41EB4E231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96C7241-7A9F-4F0C-A719-9AA41EB4E231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96C7241-7A9F-4F0C-A719-9AA41EB4E231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96C7241-7A9F-4F0C-A719-9AA41EB4E231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86D8680-1967-415E-97A6-AC31D88E02BF}
+	EndGlobalSection
+EndGlobal
